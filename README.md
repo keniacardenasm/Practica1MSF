@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Kenia Cardenas Manzo\ [20210773]; Kenia.cardenas201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
